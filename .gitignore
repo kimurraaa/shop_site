@@ -22,6 +22,7 @@ frontend/node_modules/
 frontend/.vite/
 frontend/.output/
 frontend/dist/
+frontend/node_modules/
 
 # 🔄 Игнорируем кэш
 *.swp
